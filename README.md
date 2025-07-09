@@ -1,1 +1,2 @@
-# jenkins-freestyle-test
+# Freestyle Jenkins Projekt
+Dies ist ein einfacher Jenkins Freestyle-Job.
